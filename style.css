@@ -1,0 +1,39 @@
+body {
+  background: #E5D4ED;
+
+    color= white;
+    text-align: center
+}
+.profile-img{
+  width: 30%;
+  border-radius: 150%;
+}
+h1{
+  font-size: large;
+}
+p{
+  font-size: small;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.btn {
+  display: block;
+  color: black;
+  padding: 20px;
+  background: white;
+  margin: 10px;
+  box-shadow: 0 0 30px DarkSlateGray;
+}
+/* Style the icon */
+.twitter.svg {
+  color: #3B5998;
+  font-size: 24px;
+  padding: 10px;
+}
+
+/* Add a hover effect */
+.fa-facebook:hover {
+  opacity: 0.8;
+}
